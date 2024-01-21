@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-responsive-one/static/css/main.ceaa0d30.css",
-    "main.js": "/portfolio-responsive-one/static/js/main.69acca8a.js",
+    "main.css": "/portfolio-responsive-one/static/css/main.1078306f.css",
+    "main.js": "/portfolio-responsive-one/static/js/main.bcb68b30.js",
     "static/js/787.0e94531a.chunk.js": "/portfolio-responsive-one/static/js/787.0e94531a.chunk.js",
     "static/media/Screenshot 2023-06-24 214030.png": "/portfolio-responsive-one/static/media/Screenshot 2023-06-24 214030.6f1dd28b73fbeb3a55cd.png",
     "static/media/Screenshot 2023-06-24 213546.png": "/portfolio-responsive-one/static/media/Screenshot 2023-06-24 213546.4491e014e80ef1f1ef73.png",
@@ -12,12 +12,12 @@
     "static/media/Screenshot 2023-07-10 003343.png": "/portfolio-responsive-one/static/media/Screenshot 2023-07-10 003343.e686f900fad55c95cd98.png",
     "index.html": "/portfolio-responsive-one/index.html",
     "static/media/chevron-down-solid.svg": "/portfolio-responsive-one/static/media/chevron-down-solid.fd5f90d259cad6aba6e19ae5618fdb72.fd5f90d259cad6aba6e19ae5618fdb72.svg",
-    "main.ceaa0d30.css.map": "/portfolio-responsive-one/static/css/main.ceaa0d30.css.map",
-    "main.69acca8a.js.map": "/portfolio-responsive-one/static/js/main.69acca8a.js.map",
+    "main.1078306f.css.map": "/portfolio-responsive-one/static/css/main.1078306f.css.map",
+    "main.bcb68b30.js.map": "/portfolio-responsive-one/static/js/main.bcb68b30.js.map",
     "787.0e94531a.chunk.js.map": "/portfolio-responsive-one/static/js/787.0e94531a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ceaa0d30.css",
-    "static/js/main.69acca8a.js"
+    "static/css/main.1078306f.css",
+    "static/js/main.bcb68b30.js"
   ]
 }
