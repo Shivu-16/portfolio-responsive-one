@@ -1,21 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio-responsive-one/static/css/main.396128e1.css",
-    "main.js": "/portfolio-responsive-one/static/js/main.ac0ddc90.js",
+    "main.css": "/portfolio-responsive-one/static/css/main.4a18b4db.css",
+    "main.js": "/portfolio-responsive-one/static/js/main.7eae74b2.js",
     "static/js/787.0e94531a.chunk.js": "/portfolio-responsive-one/static/js/787.0e94531a.chunk.js",
-    "static/media/boxicons.svg": "/portfolio-responsive-one/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
-    "static/media/boxicons.eot": "/portfolio-responsive-one/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
-    "static/media/boxicons.woff": "/portfolio-responsive-one/static/media/boxicons.d12afc36557395143e4b.woff",
-    "static/media/boxicons.ttf": "/portfolio-responsive-one/static/media/boxicons.db9ddb1898dbd76badca.ttf",
     "static/media/ghost-img.png": "/portfolio-responsive-one/static/media/ghost-img.cbedbdd72a5c40e33a18.png",
-    "static/media/boxicons.woff2": "/portfolio-responsive-one/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "static/media/—Pngtree—halloween cute ghost_5646345.png": "/portfolio-responsive-one/static/media/—Pngtree—halloween cute ghost_5646345.277f022c6cd2587b9440.png",
     "index.html": "/portfolio-responsive-one/index.html",
-    "main.396128e1.css.map": "/portfolio-responsive-one/static/css/main.396128e1.css.map",
-    "main.ac0ddc90.js.map": "/portfolio-responsive-one/static/js/main.ac0ddc90.js.map",
+    "main.4a18b4db.css.map": "/portfolio-responsive-one/static/css/main.4a18b4db.css.map",
+    "main.7eae74b2.js.map": "/portfolio-responsive-one/static/js/main.7eae74b2.js.map",
     "787.0e94531a.chunk.js.map": "/portfolio-responsive-one/static/js/787.0e94531a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.396128e1.css",
-    "static/js/main.ac0ddc90.js"
+    "static/css/main.4a18b4db.css",
+    "static/js/main.7eae74b2.js"
   ]
 }
