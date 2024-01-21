@@ -1,17 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio-responsive-one/static/css/main.4a18b4db.css",
-    "main.js": "/portfolio-responsive-one/static/js/main.7eae74b2.js",
+    "main.css": "/portfolio-responsive-one/static/css/main.ceaa0d30.css",
+    "main.js": "/portfolio-responsive-one/static/js/main.69acca8a.js",
     "static/js/787.0e94531a.chunk.js": "/portfolio-responsive-one/static/js/787.0e94531a.chunk.js",
+    "static/media/Screenshot 2023-06-24 214030.png": "/portfolio-responsive-one/static/media/Screenshot 2023-06-24 214030.6f1dd28b73fbeb3a55cd.png",
+    "static/media/Screenshot 2023-06-24 213546.png": "/portfolio-responsive-one/static/media/Screenshot 2023-06-24 213546.4491e014e80ef1f1ef73.png",
+    "static/media/Screenshot 2023-07-09 232741.png": "/portfolio-responsive-one/static/media/Screenshot 2023-07-09 232741.acc67f4dc5f086dabb44.png",
     "static/media/ghost-img.png": "/portfolio-responsive-one/static/media/ghost-img.cbedbdd72a5c40e33a18.png",
     "static/media/—Pngtree—halloween cute ghost_5646345.png": "/portfolio-responsive-one/static/media/—Pngtree—halloween cute ghost_5646345.277f022c6cd2587b9440.png",
+    "static/media/Screenshot 2023-06-24 223002.png": "/portfolio-responsive-one/static/media/Screenshot 2023-06-24 223002.23fab39fa7b184326cb1.png",
+    "static/media/Screenshot 2023-07-10 003343.png": "/portfolio-responsive-one/static/media/Screenshot 2023-07-10 003343.e686f900fad55c95cd98.png",
     "index.html": "/portfolio-responsive-one/index.html",
-    "main.4a18b4db.css.map": "/portfolio-responsive-one/static/css/main.4a18b4db.css.map",
-    "main.7eae74b2.js.map": "/portfolio-responsive-one/static/js/main.7eae74b2.js.map",
+    "static/media/chevron-down-solid.svg": "/portfolio-responsive-one/static/media/chevron-down-solid.fd5f90d259cad6aba6e19ae5618fdb72.fd5f90d259cad6aba6e19ae5618fdb72.svg",
+    "main.ceaa0d30.css.map": "/portfolio-responsive-one/static/css/main.ceaa0d30.css.map",
+    "main.69acca8a.js.map": "/portfolio-responsive-one/static/js/main.69acca8a.js.map",
     "787.0e94531a.chunk.js.map": "/portfolio-responsive-one/static/js/787.0e94531a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a18b4db.css",
-    "static/js/main.7eae74b2.js"
+    "static/css/main.ceaa0d30.css",
+    "static/js/main.69acca8a.js"
   ]
 }
